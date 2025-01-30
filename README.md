@@ -7,7 +7,7 @@ Existing works investigated the cross-floor indoor navigation of quadruped robot
 ---
 
 ## 📌 Dataset and Scene
-This project provides **a dataset and simulated environment** for testing cross-floor navigation using a mobile manipulator. Download link: [dataset](https://drive.google.com/drive/folders/1KTdcYPGYAUvvEND5SfPvdIDNNca4IxDK?usp=drive_link). The dataset includes:
+This project provides **a dataset and simulated environment** for testing cross-floor navigation using a mobile manipulator. The dataset includes:
 - **RGB image** representing the RGB image from on-board camera.
 - **Depth image** representing the Depth image from on-board camera.
 - **Camera pose** 6D camera pose of on-board camera.
